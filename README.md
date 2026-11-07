@@ -1,114 +1,160 @@
-# 👋 Hey, I'm Rahul Vishwakarma!
+<!-- =============== ANIMATED HEADER =============== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Mechanical+Engineer+%E2%9A%99%EF%B8%8F;Software+Developer+%F0%9F%92%BB;IoT+%26+Automation+Enthusiast+%F0%9F%94%8C;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:075985,100:06B6D4&text=RAHUL%20VISHWAKARMA&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=MECHANICAL%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Mechanical+Engineering+%E2%9A%99%EF%B8%8F;Software+Development+%F0%9F%92%BB;IoT+%26+Embedded+Systems+%F0%9F%94%8C;Robotics+%26+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Engineering+Solutions+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=rahulvish090&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ ENGINEER BY EDUCATION. DEVELOPER BY PASSION.
 
-I'm a Mechanical Engineering student and technology enthusiast passionate about combining engineering with software development.
+I'm Rahul Vishwakarma — a Mechanical Engineering student passionate about exploring the intersection of mechanical systems, electronics and software.
 
-- ⚙️ Mechanical Engineering & Design
-- 💻 Programming and Software Development
-- 🔌 Internet of Things (IoT)
-- 🤖 Robotics and Automation
-- 🧠 Exploring Artificial Intelligence
-- 🚀 Learning by building real-world projects
+I enjoy understanding how things work, designing solutions and transforming technical ideas into practical projects.
 
-**My goal:** Combine mechanical engineering, electronics, and software to build innovative solutions.
+- ⚙️ Mechanical Design & Engineering
+- 💻 Programming & Software Development
+- 🔌 IoT & Embedded Systems
+- 🤖 Robotics & Industrial Automation
+- 🧠 Artificial Intelligence & Simulation
+- 🚀 Building practical engineering solutions
+
+> My philosophy: Think like an engineer. Build like a developer. Innovate without limits.
 
 ---
 
-## 💻 My Tech Arsenal
+## 🧰 TECHNOLOGY & ENGINEERING TOOLKIT
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,nodejs,postgres" />
 
-### Frameworks & Development
+### ⚙️ Engineering & 3D Design
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres" />
+<img src="https://skillicons.dev/icons?i=matlab,blender" />
 
-### Engineering & Design
+<img src="https://img.shields.io/badge/SolidWorks-3D%20CAD-red?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-Engineering%20Computing-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=matlab,blender,arduino,linux" />
+### 🔌 Electronics & Embedded Systems
 
-### Tools
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+<img src="https://img.shields.io/badge/ESP8266-IoT%20Development-222222?style=for-the-badge&logo=espressif&logoColor=red"/>
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio" />
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 FEATURED ENGINEERING PROJECTS
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏠 Smart IoT Home Automation
-ESP8266-based smart home automation system with wireless device control.
+
+Wireless home automation using ESP8266 and a relay module.
+
+**Technologies:** ESP8266, Arduino, IoT
+
+</td>
+<td width="50%">
 
 ### 🎓 Student Portal
-Full-stack student management application using React, Node.js, Express and PostgreSQL.
+
+Full-stack student management system with database integration and authentication.
+
+**Technologies:** React, Node.js, PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### ⚙️ Mechanical Machine Simulator
-Interactive engineering simulation project using Python.
+
+Interactive engineering simulation and mechanical system visualization.
+
+**Technologies:** Python, Mathematics
+
+</td>
+<td width="50%">
 
 ### 📊 QMS Management System
-A web-based quality management system for document and process management.
+
+Web-based quality management and document management solution.
+
+**Technologies:** Web Development, Database
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## 🧠 ENGINEERING INTERESTS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://img.shields.io/badge/Mechanical%20Design-Engineering-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Industry%204.0-155E75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-Connected%20Systems-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Development-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-Innovation-4338CA?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 📈 DEVELOPMENT ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvish090&bg_color=020617&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true" alt="Development activity graph"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT & COLLABORATE
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/rahulvish090">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
+
+Interested in engineering, software, automation and innovative technology projects.
 
 ---
 
 <div align="center">
 
-### 💡 Engineering the Future, One Line of Code at a Time.
+### ⚙️ DESIGN. DEVELOP. AUTOMATE. INNOVATE.
 
-**⭐ Thanks for visiting my profile!**
+*"The future belongs to those who can connect engineering with technology."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=120&section=footer"/>
 
 </div>
